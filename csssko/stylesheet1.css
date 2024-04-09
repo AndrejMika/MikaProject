@@ -1,0 +1,62 @@
+html{
+    min-height: 100%;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 63px;
+    min-height: 100%;
+    
+
+}
+
+
+
+
+
+.main-text {
+    margin: 25%;
+    z-index: 4;
+    position: absolute;
+    top: 50px;
+    color: #FFF;
+    font-size: 580%;
+}
+
+
+
+  
+
+.logo{
+    z-index: 1;
+    margin-right: auto;
+    padding: 4px;
+    width: 80px;
+    height: auto;
+
+}
+
+  
+ 
+
+
+
+
+
+.imgs{
+    z-index: -1;
+    width: 250px;
+    height: 250px;
+
+}
+
+
+
+#map{
+height: 300px ;
+width: 500px;
+margin-top:  20px;
+margin-bottom: 20px;
+align-self: center;
+}
+
