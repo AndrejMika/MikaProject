@@ -1,4 +1,4 @@
-<footer style=" position: relative; clear: both;">
+<footer style=" position: relative; clear: both; bottom: 0; width: 100%;">
         <div class="card" style=" background-color: #0b1d5b; color: #F3F9FB;" >
           <div class="row g-0">
             <div style="justify-content: center;align-items: center;" class="col-sm-3">
